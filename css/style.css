@@ -1,0 +1,66 @@
+#header {background-color: rgba(25, 25, 26, 0.884) !important;}
+
+#boton_verde
+{
+    color: #25a342;
+    margin-right: 60px;
+}
+
+#Logo 
+{
+    margin-left: 60px;
+}
+
+.imagen {filter: brightness(60%);}
+
+#titulo 
+{
+    margin-left: 670px;
+}
+
+#titulo1
+{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 25px;
+    font-size: small;
+}
+
+#titulo2
+{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 230px;
+    font-size: small;
+}
+
+#titulo3
+{
+    margin-left: 233px;
+}
+
+#boton-enviar
+{
+    filter: brightness(120%);
+}
+
+.size {font-size: 14px;}
+
+#charla
+{
+    margin-left: 5px;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+#parte3 {background-color: rgba(25, 25, 26, 0.884) !important;}
+
+footer 
+{
+    background-image: linear-gradient(to right, rgb(2, 2, 71), rgb(35, 35, 173));
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+.ultimo {margin-top: 12px;}
