@@ -59,8 +59,21 @@ footer
 {
     background-image: linear-gradient(to right, rgb(2, 2, 71), rgb(35, 35, 173));
     margin-top: 20px;
-    margin-bottom: 20px;
 
 }
 
 .ultimo {margin-top: 12px;}
+
+.valor-ticket{
+    text-transform: uppercase;
+}
+
+#btnBorrar, #btnResumen{
+    background: #25a342 !important;
+    border: #25a342 !important;
+}
+
+#continuar {
+    background: #25a342 !important;
+    border: #25a342 !important;
+}
